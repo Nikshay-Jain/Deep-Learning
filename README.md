@@ -1,2 +1,4 @@
 # Deep-Learning
-Tensors 'flow' in nature !!!
+$\textbf{Tensors `flow' in nature !!!}$
+
+A comprehensive repository to learn deep learning by tensorflow (under constant additions yet).
